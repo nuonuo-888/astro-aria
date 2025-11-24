@@ -14,7 +14,7 @@ One-click deploy this starter to Tencent EdgeOne Pages (installs dependencies, r
 
 ## Preview
 
-[![Preview](https://img.shields.io/badge/Preview-4ECCA3?style=for-the-badge&logo=globe&logoColor=white)](https://astro-aria.edgeone.run)
+[![Preview](https://img.shields.io/badge/Preview-4ECCA3?style=for-the-badge&logo=globe&logoColor=white)](https://astro-aria.edgeone.app/)
 
 You can install this theme with the [Astro](https://astro.build) command like so:
 
